@@ -8,6 +8,14 @@ This C program calculates the Air Quality Health Index (AQHI) based on air quali
 - Calculates the Air Quality Health Index (AQHI) based on the provided data.
 - Provides information on the health risk associated with the calculated AQHI value.
 
+## Usage
+
+1. Ensure you have a C compiler installed on your system.
+2. Clone this repository to your local machine.
+3. Place the CSV files containing air quality data in the same directory as the program.
+4. Compile the program using your C compiler.
+5. Run the compiled executable.
+
 ## Output
 
 The program will output the calculated AQHI value along with information about the health risk associated with that AQHI level.
@@ -18,4 +26,4 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 ## License
 
-This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
