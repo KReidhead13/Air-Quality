@@ -8,31 +8,6 @@ This C program calculates the Air Quality Health Index (AQHI) based on air quali
 - Calculates the Air Quality Health Index (AQHI) based on the provided data.
 - Provides information on the health risk associated with the calculated AQHI value.
 
-## Usage
-
-1. Ensure you have a C compiler installed on your system.
-2. Clone this repository to your local machine.
-3. Place the CSV files containing air quality data in the same directory as the program.
-4. Compile the program using your C compiler.
-5. Run the compiled executable.
-
-## CSV File Format
-
-The CSV files containing air quality data should adhere to the following format:
-
-```
-Date,PM2.5,PM10,O3,NO2,CO,SO2
-YYYY-MM-DD,µg/m³,µg/m³,ppm,ppm,ppm,ppm
-```
-
-- `Date`: Date of the recorded data.
-- `PM2.5`: Particulate Matter (PM) 2.5 concentration in micrograms per cubic meter (µg/m³).
-- `PM10`: Particulate Matter (PM) 10 concentration in micrograms per cubic meter (µg/m³).
-- `O3`: Ozone concentration in parts per million (ppm).
-- `NO2`: Nitrogen Dioxide concentration in parts per million (ppm).
-- `CO`: Carbon Monoxide concentration in parts per million (ppm).
-- `SO2`: Sulfur Dioxide concentration in parts per million (ppm).
-
 ## Output
 
 The program will output the calculated AQHI value along with information about the health risk associated with that AQHI level.
