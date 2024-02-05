@@ -1,0 +1,2 @@
+C:\Users\keena\source\repos\Ryan2\x64\Debug\Ryan2.exe
+D:\C++\Ryan2\x64\Debug\Ryan2.exe
